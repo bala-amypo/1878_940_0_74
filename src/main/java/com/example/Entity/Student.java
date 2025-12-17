@@ -47,12 +47,5 @@ public class Student {
     public Student() {
     }
 
-    // public void setId(int id) { //Setting the data Id
-    //     this.id = id;
-    // }
-    // public int getId() { //Getting the data Id
-    //     return id;
-    // }
-
     
 }
